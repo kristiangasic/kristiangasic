@@ -33,7 +33,7 @@ Exploring advanced **AI-driven infrastructure monitoring tools** and **DevOps pi
 ---
 
 ### 📫 How to Reach Me
-- Email: [kgasic@pgasic.bio](mailto:kristian@gasic.bio)
+- Email: [kristian@gasic.bio](mailto:kristian@gasic.bio)
 - Discord: [Pain0xF]
 - 
 
