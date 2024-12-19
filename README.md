@@ -35,7 +35,7 @@ Exploring advanced **AI-driven infrastructure monitoring tools** and **DevOps pi
 ### 📫 How to Reach Me
 - Email: [kristian@gasic.bio](mailto:kristian@gasic.bio)
 - Discord: [Pain0xF]
-- 
+- [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kristiangasic)
 
 ---
 
